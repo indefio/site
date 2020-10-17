@@ -1,16 +1,16 @@
 <template>
   <svg
     xmlns="http://www.w3.org/2000/svg"
-    width="153"
-    height="41"
-    viewBox="0 0 153 41"
+    width="186"
+    height="55"
+    viewBox="0 0 186 55"
   >
-    <g id="Group_10" data-name="Group 10" transform="translate(-33 -571)">
+    <g id="Group_10" data-name="Group 10" transform="translate(-26 -564)">
       <text
         id="INDEFIO"
-        transform="translate(88 599)"
+        transform="translate(98 600)"
         fill="#1f1f1f"
-        font-size="24"
+        font-size="28"
         font-family="Nunito-ExtraBold, Nunito"
         font-weight="800"
       >
@@ -20,10 +20,10 @@
         <rect
           id="Rectangle_12"
           data-name="Rectangle 12"
-          width="41"
-          height="41"
+          width="55"
+          height="55"
           rx="8"
-          transform="translate(43.999 572)"
+          transform="translate(36.999 565)"
           fill="#1f1f1f"
         />
         <g
@@ -37,6 +37,7 @@
             width="8.062"
             height="38.292"
             rx="4.031"
+            transform="translate(0)"
             fill="rgba(255,255,255,0.5)"
           />
           <circle

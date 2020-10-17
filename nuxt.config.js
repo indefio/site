@@ -11,7 +11,7 @@ export default {
   },
 
   // Global CSS (https://go.nuxtjs.dev/config-css)
-  css: [],
+  css: ['~/assets/styles.css'],
 
   // Plugins to run before rendering page (https://go.nuxtjs.dev/config-plugins)
   plugins: [],
@@ -47,7 +47,7 @@ export default {
 
   googleFonts: {
     families: {
-      Nunito: true,
+      Nunito: [400, 700, 900],
     },
   },
 }
