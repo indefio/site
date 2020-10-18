@@ -64,7 +64,7 @@
             cy="4.031"
             r="4.031"
             transform="translate(-14.849 14.849)"
-            fill="#22d1e8"
+            fill="#1c88cc"
           />
           <circle
             id="Ellipse_4"
@@ -73,7 +73,7 @@
             cy="4.031"
             r="4.031"
             transform="translate(14.849 14.849)"
-            fill="#22d1e8"
+            fill="#1c88cc"
           />
         </g>
       </g>

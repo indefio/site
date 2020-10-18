@@ -1,3 +1,16 @@
+:root {
+  --color-primary-main: #1c88cc;
+  --color-primary-light: #47b5fa;
+}
+
 body {
   letter-spacing: 0.2px;
+}
+
+a {
+  color: var(--color-primary-main);
+}
+
+a:hover {
+  color: var(--color-primary-light);
 }

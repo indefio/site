@@ -16,21 +16,21 @@
         </div>
         <div class="mt-4 font-semibold">
           <a
-            class="text-gray-700 hover:text-gray-900"
+            class="text-gray-700 hover:text-gray-900 hover:no-underline"
             href="https://twitter.com/ignarweb"
             target="_blank"
             >Twitter</a
           >
           <span>⋅</span>
           <a
-            class="text-gray-700 hover:text-gray-900"
+            class="text-gray-700 hover:text-gray-900 hover:no-underline"
             href="https://github.com/pgvlas"
             target="_blank"
             >Github</a
           >
           <span>⋅</span>
           <a
-            class="text-gray-700 hover:text-gray-900"
+            class="text-gray-700 hover:text-gray-900 hover:no-underline"
             href="https://www.linkedin.com/in/patryk-gu%C5%82a%C5%9B-86ab939a/"
             target="_blank"
             >Linkedin</a
