@@ -9,6 +9,7 @@ body {
 
 a {
   color: var(--color-primary-main);
+  font-weight: 700;
 }
 
 a:hover {

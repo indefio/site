@@ -31,6 +31,14 @@
           Monitor <span>·</span>
           <span class="font-bold">Philips 34" 346B1C/00 Curved</span>
         </li>
+        <li class="mb-2">
+          Keyboard <span>·</span>
+          <span class="font-bold">Magic Keyboard</span>
+        </li>
+        <li class="mb-2">
+          Mouse <span>·</span>
+          <span class="font-bold">Magic Trackpad 2</span>
+        </li>
         <li>
           Desk <span>·</span>
           <span class="font-bold">IKEA IDÅSEN 160x80cm</span>

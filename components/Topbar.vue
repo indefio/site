@@ -8,13 +8,21 @@
         <NuxtLink
           to="/about"
           class="text-gray-700 hover:text-gray-900 hover:no-underline"
-          >About</NuxtLink
         >
+          About
+        </NuxtLink>
         <NuxtLink
           to="/uses"
           class="text-gray-700 hover:text-gray-900 hover:no-underline"
-          >Uses</NuxtLink
         >
+          Uses
+        </NuxtLink>
+        <NuxtLink
+          to="/contact"
+          class="text-gray-700 hover:text-gray-900 hover:no-underline"
+        >
+          Contact
+        </NuxtLink>
       </div>
     </div>
   </div>
