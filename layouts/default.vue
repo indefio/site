@@ -1,5 +1,11 @@
 <template>
-  <div>
+  <div class="relative">
+    <HamburgerSidebar
+      class="h-0"
+      :class="{
+        'h-full': $store.state.isHamburgerOpened,
+      }"
+    />
     <Topbar />
     <Nuxt />
     <Footer />
