@@ -23,8 +23,8 @@
         React, Node or Vue but I love to try new stuff which occurs every day.
       </div>
       <div class="mt-4 text-xl text-left sm:text-center">
-        I invite you to <NuxtLink to="/">get to know me</NuxtLink> a little
-        better and <NuxtLink to="/">reach me out</NuxtLink> to say hello.
+        I invite you to <NuxtLink to="/about">get to know me</NuxtLink> a little
+        better and <NuxtLink to="/contact">reach me out</NuxtLink> to say hello.
       </div>
     </div>
   </div>

@@ -1,5 +1,5 @@
 <template>
-  <div class="container mx-auto">
+  <div class="container mx-auto px-6">
     <div>
       <h1 class="text-2xl font-bold">Editor and terminal</h1>
       <ul class="mt-4 text-lg">
