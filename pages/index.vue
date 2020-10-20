@@ -8,6 +8,7 @@
         <img
           class="w-16 sm:ml-2 mb-2 order-1 sm:order-2"
           src="~/assets/man_raising_hand.gif"
+          alt="Man raising hand"
         />
       </h1>
       <h1 class="text-2xl font-bold">

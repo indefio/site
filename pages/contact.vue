@@ -1,6 +1,6 @@
 <template>
   <div class="container mx-auto px-6">
-    <img class="h-16" src="~/assets/writing_hand.gif" />
+    <img class="h-16" src="~/assets/writing_hand.gif" alt="Writing hand" />
     <div class="text-xl mt-4">
       Let's keep in touch. I'm always happy to discuss about technology,
       business or my content. Feel free to reach me out by

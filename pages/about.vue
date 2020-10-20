@@ -4,9 +4,10 @@
       <img
         class="w-32 h-32 rounded-full mr-0 border-2 border-gray-300 p-1 sm:mr-8"
         src="~/assets/photo.jpg"
+        alt="Photo"
       />
       <div>
-        <img class="h-16" src="~/assets/waving_hand.gif" />
+        <img class="h-16" src="~/assets/waving_hand.gif" alt="Waving hand" />
         <div class="mt-4 text-xl">
           Hi, I'm Patrick and I'm a fullstack web engineer living in Poland but
           working remotely for international clients (i.a. Microsoft, Aviva,

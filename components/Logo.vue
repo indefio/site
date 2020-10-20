@@ -1,9 +1,9 @@
 <template>
   <svg
     xmlns="http://www.w3.org/2000/svg"
-    width="186"
+    width="193"
     height="55"
-    viewBox="0 0 186 55"
+    viewBox="0 0 193 55"
   >
     <g id="Group_10" data-name="Group 10" transform="translate(-26 -564)">
       <text
@@ -13,6 +13,7 @@
         font-size="28"
         font-family="Nunito-ExtraBold, Nunito"
         font-weight="800"
+        letter-spacing="0.04em"
       >
         <tspan x="0" y="0">INDEFIO</tspan>
       </text>
